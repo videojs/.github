@@ -1,11 +1,11 @@
 {
     "name": "Video.js CI Workflow",
     "description": "Video.js CI workflow template.",
-    "iconName": "example-icon",
+    "iconName": "qunit",
     "categories": [
         "JavaScript"
     ],
     "filePatterns": [
-        "package.json$",
+        "package.json$"
     ]
 }
