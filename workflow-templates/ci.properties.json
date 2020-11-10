@@ -1,6 +1,6 @@
 {
     "name": "Video.js CI Workflow",
-    "description": "Video.js CI workflow template.",
+    "description": "Video.js CI workflow template. Requires videojs-generate-karma-config@7, karma@5, and a number in .nvmrc",
     "iconName": "qunit",
     "categories": [
         "JavaScript"
