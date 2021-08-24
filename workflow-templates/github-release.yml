@@ -10,6 +10,7 @@ jobs:
   github-release:
     env:
       # Set this if you want a netlify example
+      # DO NOT INCLUDE THE PROTOCOL. IE https://
       NETLIFY_BASE: ''
     runs-on: ubuntu-latest
     steps:
