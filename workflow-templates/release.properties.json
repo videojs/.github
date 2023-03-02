@@ -1,0 +1,11 @@
+{
+    "name": "Video.js Release Workflow",
+    "description": "Video.js release workflow template. Requires @videojs/update-changelog and number in .nvmrc",
+    "iconName": "github",
+    "categories": [
+        "JavaScript"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
